@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
   </a> 
@@ -130,8 +130,17 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikhan-vrtechsol&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true" alt="alikhan-vrtechsol" /></p>
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikhan-vrtechsol&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true" alt="alikhan-vrtechsol" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikhan-vrtechsol&show_icons=true&locale=en&count_private=true" alt="alikhan-vrtechsol" /></p>
+<h3 align="left">GitHub Trophies:</h3>
+<p align="left">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alikhan-vrtechsol&column=7&margin-w=15&margin-h=15" alt="alikhan-vrtechsol" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhan-vrtechsol&" alt="alikhan-vrtechsol" /></p>
+<h3 align="left">GitHub Streak:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhan-vrtechsol&" alt="alikhan-vrtechsol" />
+</p>
