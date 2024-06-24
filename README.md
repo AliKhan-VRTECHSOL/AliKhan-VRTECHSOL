@@ -130,10 +130,14 @@
   </a> 
 </p>
 
-<h3 align="left">Most Used Languages:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikhan-vrtechsol&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true" alt="alikhan-vrtechsol" />
-</p>
+<h3 align="left">Recent GitHub Activity:</h3>
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com/alikhan-vrtechsol/repo/issues/1) in [alikhan-vrtechsol/repo](https://github.com/alikhan-vrtechsol/repo)
+2. 🎉 Merged PR [#2](https://github.com/alikhan-vrtechsol/repo/pull/2) in [alikhan-vrtechsol/repo](https://github.com/alikhan-vrtechsol/repo)
+3. 💪 Opened PR [#2](https://github.com/alikhan-vrtechsol/repo/pull/2) in [alikhan-vrtechsol/repo](https://github.com/alikhan-vrtechsol/repo)
+4. 🗣 Commented on [#1](https://github.com/alikhan-vrtechsol/repo/issues/1) in [alikhan-vrtechsol/repo](https://github.com/alikhan-vrtechsol/repo)
+5. ❗️ Opened issue [#1](https://github.com/alikhan-vrtechsol/repo/issues/1) in [alikhan-vrtechsol/repo](https://github.com/alikhan-vrtechsol/repo)
+<!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Streak:</h3>
 <p align="left">
