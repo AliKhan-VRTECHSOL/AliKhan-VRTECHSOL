@@ -140,8 +140,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhan-vrtechsol&" alt="alikhan-vrtechsol" />
 </p>
 
-<h3 align="left">GitHub Commits:</h3>
+<h3 align="left">Recent GitHub Activity:</h3>
 <p align="left">
-  <img align="center" src="https://github.com/alikhan-vrtechsol/alikhan-vrtechsol/blob/output/github-contribution-grid-snake.svg" alt="GitHub Commits Snake Animation" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=alikhan-vrtechsol&theme=minimal" alt="GitHub Activity Graph" />
 </p>
-
