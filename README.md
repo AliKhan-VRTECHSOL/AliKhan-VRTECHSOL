@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Khan</h1>
+<h1 align="center">Hi 👋, I'm AliKhan CEO of VRTECHSOL</h1>
 <h3 align="center">A passionate Full Stack developer from Australia</h3>
 
 - 📅 Schedule a meeting with me **https://calendly.com/alikhan2022**
