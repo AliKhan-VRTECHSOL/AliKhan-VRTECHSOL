@@ -135,11 +135,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikhan-vrtechsol&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true" alt="alikhan-vrtechsol" />
 </p>
 
-<h3 align="left">GitHub Trophies:</h3>
-<p align="left">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alikhan-vrtechsol&column=7&margin-w=15&margin-h=15" alt="alikhan-vrtechsol" />
-</p>
-
 <h3 align="left">GitHub Streak:</h3>
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhan-vrtechsol&" alt="alikhan-vrtechsol" />
@@ -147,5 +142,6 @@
 
 <h3 align="left">GitHub Commits:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alikhan-vrtechsol&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Commits" />
+  <img align="center" src="https://github.com/alikhan-vrtechsol/alikhan-vrtechsol/blob/output/github-contribution-grid-snake.svg" alt="GitHub Commits Snake Animation" />
 </p>
+
