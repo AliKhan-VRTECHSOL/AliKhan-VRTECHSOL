@@ -135,6 +135,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikhan-vrtechsol&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true" alt="alikhan-vrtechsol" />
 </p>
 
+<h3 align="left">GitHub Trophies:</h3>
+<p align="left">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alikhan-vrtechsol&column=7&margin-w=15&margin-h=15" alt="alikhan-vrtechsol" />
+</p>
 
 <h3 align="left">GitHub Streak:</h3>
 <p align="left">
