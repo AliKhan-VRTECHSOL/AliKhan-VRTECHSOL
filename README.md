@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Khan, CEO of VRTECHSOL</h1>
+<h1 align="center">Hi 👋, I'm Ali Khan, FULL STACK DEVELOPER React js, Next js, Node Js and Laravel </h1>
 <h3 align="center">A passionate Full Stack Developer from Australia</h3>
 
 - 📅 Schedule a meeting with me: [https://calendly.com/alikhan2022](https://calendly.com/alikhan2022)
