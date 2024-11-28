@@ -3,8 +3,6 @@
 
 - 📅 Schedule a meeting with me: [https://calendly.com/alikhan2022](https://calendly.com/alikhan2022)
 
-- 👨‍💻 View all my projects: https://vrtechsol.com/portfolio/
-
 - 🔗 Explore my freelance experiences on Upwork: [https://www.upwork.com/freelancers/akaus](https://www.upwork.com/freelancers/akaus)
 
 - 💬 Ask me about: **React, Next.js, Node.js, Laravel, React Native, Figma**
