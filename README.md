@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ali Khan, Full Stack Developer 12+ Years of Experience </h1>
 <h3 align="center">A passionate Full Stack Developer from Australia</h3>
 
-- 📅 Schedule a meeting with me: [https://calendly.com/alikhan2022](https://calendly.com/alikhan2022)
-
 - 🔗 Explore my freelance experiences on Upwork: [https://www.upwork.com/freelancers/akaus](https://www.upwork.com/freelancers/akaus)
 
 - 💬 Ask me about: **React, Next.js, Node.js, Laravel, React Native, Figma**
 
-- 📫 How to reach me: **ali.khan@vrtechsol.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
