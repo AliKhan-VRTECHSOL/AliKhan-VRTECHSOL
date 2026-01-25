@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ali Khan, Full Stack Developer 12+ Years of Experience </h1>
-<h3 align="center">A passionate Full Stack Developer from Australia</h3>
+<h1 align="center">Hi 👋, I'm Ali Khan, Full Stack Developer 12+ Years of Experience (Ex Corporate Employee) </h1>
+<h3 align="center">A passionate Full Stack Developer from AUS</h3>
 
 - 🔗 Explore my freelance experiences on Upwork: [https://www.upwork.com/freelancers/akaus](https://www.upwork.com/freelancers/akaus)
 
-- 💬 Ask me about: **React, Next.js, Node.js, Laravel, React Native, Figma**
+- 💬 Ask me about: **Lovable, Cursor, Open Ai, Replit, N8N, Make,com, React, Next.js,Supbase, Node.js, React Native, Figma**
 
 
 
