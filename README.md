@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Khan, Full Stack Developer 12+ Years of Experience   (Ex Corporate Employee) </h1>
-<h3 align="center">A passionate Full Stack Developer from AUS</h3>
+<h3 align="center"> Your next Ai Development Lead from AUS</h3>
 
 - 🔗 Explore my freelance experiences on Upwork: [https://www.upwork.com/freelancers/akaus](https://www.upwork.com/freelancers/akaus)
 
