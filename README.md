@@ -1,5 +1,5 @@
 <h1 align="center">Ali Khan</h1>
-<h3 align="center">Senior Full Stack Engineer • AI Systems • 12+ Years Experience</h3>
+<h3 align="center">Senior Full Stack Engineer • AI Systems • 15+ Years Experience</h3>
 
 <p align="center">
 Melbourne, Australia • Building production-grade platforms, not demos
