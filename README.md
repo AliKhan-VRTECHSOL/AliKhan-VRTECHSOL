@@ -140,9 +140,6 @@ My focus is building production-grade applications that are scalable, maintainab
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alikhan-vrtechsol&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alikhan-vrtechsol&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhan-vrtechsol&layout=compact&theme=tokyonight" alt="Top Languages" />
