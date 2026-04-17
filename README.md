@@ -1,73 +1,76 @@
-<h1 align="center">
-Ali Khan — Full Stack Engineer | Architect | 12+ Years
-</h1>
-
-<h3 align="center">
-I build production-ready systems (AI, SaaS, marketplaces) — not just features
-</h3>
+<h1 align="center">Ali Khan</h1>
+<h3 align="center">Senior Full Stack Engineer • AI Systems • 12+ Years Experience</h3>
 
 <p align="center">
-Ex-Telstra, Optus, Honeywell, Siemens • Now building and scaling products end-to-end
+Melbourne, Australia • Building production-grade platforms, not demos
 </p>
 
 ---
 
-- 🔗 Upwork: https://www.upwork.com/freelancers/akaus
+### What I Do
 
-- 💬 I work on:
-  **AI workflows, SaaS platforms, marketplaces, internal tools, automation systems**
+I design and ship scalable web and mobile platforms using modern stacks like Next.js, Supabase, and Stripe.
 
-- ⚙️ Core stack:
-  **Next.js, React, TypeScript, Supabase, PostgreSQL, Node.js, Stripe, React Native**
-
-- 🧠 AI / Automation:
-  **OpenAI, Claude, Gemini, N8N, Make, custom pipelines (ingestion → processing → action)**
+My work focuses on real-world systems — marketplaces, SaaS platforms, and AI-powered workflows — with strong emphasis on performance, security, and clean architecture.
 
 ---
 
-### What I actually do
+### Current Focus
 
-- Turn messy ideas into structured, shippable systems  
-- Fix slow/manual workflows with automation  
-- Build scalable backends (auth, payments, real-time, APIs)  
-- Take MVPs to production (stability, performance, edge cases)  
-
----
-
-### How I work
-
-- 50% delivery & scope control  
-- 30% system design  
-- 20% hands-on engineering  
-
-I don’t overengineer. I ship what works and scales.
+* Building **AI-integrated products** (OpenAI, Claude, Gemini)
+* Architecting **full-stack systems** (Next.js + Supabase + PostgreSQL)
+* Implementing **secure auth + RLS policies**
+* Developing **Stripe integrations** (subscriptions, Connect payouts)
+* Designing **real-time + background job systems** (cron, queues, retries)
 
 ---
 
 ### Selected Work
 
-- SaaS platforms with subscriptions (Stripe, webhooks, billing flows)  
-- 3-sided marketplace apps (mobile + backend + payments)  
-- AI-assisted workflow systems (document → extraction → action)  
-- Internal tools replacing manual ops (45 mins → 5 mins workflows)  
+* **Sell My Rig (SMR)** — Marketplace platform with AI assist, enterprise feature gating, and multi-tenant architecture
+* **Rackd** — 3-sided fitness marketplace (React Native + Supabase + Stripe Connect + RevenueCat)
+* **Brewly Web App** — Scalable web platform built on top of an existing mobile backend for SEO and growth
 
 ---
 
-### Languages and Tools
+### Tech Stack
 
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-</p>
+**Frontend**
+TypeScript • JavaScript • React • Next.js • React Native • Expo • Tailwind CSS • ShadCN • Framer Motion
+
+**Backend**
+Node.js • Express • NestJS • Supabase (PostgreSQL, Auth, RLS, Edge Functions) • REST APIs • WebSockets
+
+**Databases**
+PostgreSQL • MongoDB • MySQL
+
+**Payments & Integrations**
+Stripe • Stripe Connect • RevenueCat • SendGrid • Twilio
+
+**AI & Automation**
+OpenAI • Claude (Anthropic) • Google Gemini • N8N • Make.com
+
+**DevOps & Infra**
+Vercel • AWS • GCP • Docker • Nginx • PM2 • VPS (Hostinger) • CI/CD
+
+**Tools & Workflow**
+Git • GitHub • Figma • Postman • Cursor • Replit • Lovable.dev
 
 ---
 
-### GitHub Activity
+### Freelance
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alikhan-vrtechsol&" />
+🔗 https://www.upwork.com/freelancers/akaus
+
+---
+
+### Notes
+
+Most of my work is production and client-based, so not all repositories are public.
+This profile highlights selected work and technical capabilities.
+
+---
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alikhan-vrtechsol&" alt="alikhan-vrtechsol" />
 </p>
