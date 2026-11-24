@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali Khan</h1>
 
-<h3 align="center">Full Stack Engineer • AI Systems • Solution Architect • 15+ Years Experience</h3>
+<h3 align="center">AI Agents & Automation Engineer • Full Stack • Solution Architect • 15+ Years</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Australia-Based-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Product%20Builder-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-First-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Melbourne-Australia-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Claude%20%7C%20MCP%20%7C%20n8n-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SaaS-Next.js%20%7C%20Supabase-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Upwork-Top%20Rated-14A800?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -18,13 +18,13 @@
 <h3>💡 About Me</h3>
 
 <p>
-I'm a <b>Full Stack Developer</b> and <b>Solution Architect</b> based in Australia with 15+ years of enterprise and startup delivery experience.
-I've worked across enterprise and product environments including <b>Telstra, Optus, Nestlé, Honeywell, and Siemens</b>.
+I build <b>AI agents, RAG knowledge assistants and SaaS applications</b> that keep working after handover.
+I'm CTO of <b>VRTECHSOL</b>, with 15+ years in software engineering across enterprise and product teams including <b>Telstra, Nestlé, Honeywell and Siemens</b>.
 </p>
 
 <p>
-I use AI tools daily, but the real value is knowing <b>when to trust them, when to challenge them, and how to ship reliable systems on top of them</b>.
-My focus is building production-grade applications that are scalable, maintainable, and commercially sound.
+I use AI tools every day. The value I add is knowing <b>when to trust them, when to challenge them, and how to ship reliable systems on top of them</b>:
+permissions, tenant isolation, approvals, logging and cost controls built in from the start.
 </p>
 
 ---
@@ -32,31 +32,55 @@ My focus is building production-grade applications that are scalable, maintainab
 <h3>🚀 What I Build</h3>
 
 <ul>
-  <li><b>AI-Powered Web & SaaS Applications</b> — LLM integrations, RAG pipelines, Claude/OpenAI/Gemini workflows, and intelligent automation</li>
-  <li><b>MVPs & Scalable Products</b> — built fast, but structured to grow without expensive rewrites</li>
-  <li><b>Workflow Automation & AI Agents</b> — N8N, Make, LangChain, and custom agent-based systems</li>
-  <li><b>SaaS Dashboards, CRMs & Internal Tools</b> — multi-tenant systems, RBAC, real-time features, and clean UX</li>
-  <li><b>API Integrations & Data Pipelines</b> — Stripe, Google Ads, Meta, Supabase, and third-party platforms</li>
+  <li><b>AI Agents & Automation</b>: Claude and OpenAI tool calling, MCP servers, n8n workflows, with human approvals, execution logs and retries</li>
+  <li><b>RAG Knowledge Assistants</b>: answers from your documents and data, with source references and access control</li>
+  <li><b>AI SaaS & Web Applications</b>: multi-tenant platforms, dashboards, CRMs and admin panels on Next.js, Node.js and Supabase</li>
+  <li><b>Integrations & Data Pipelines</b>: CRMs, email, payments, Stripe, Google Ads, Meta and third-party APIs</li>
+  <li><b>MVPs that scale</b>: built fast, but structured to grow without expensive rewrites</li>
 </ul>
 
 ---
 
-<h3>🧠 What AI Can't Fix — But I Can</h3>
+<h3>📂 Featured Work</h3>
 
 <ul>
+  <li><b>DOM AI</b>: enterprise AI SaaS for document intelligence. RAG retrieval, document processing, role-based access, Claude/OpenAI/Gemini. <i>Next.js, Node.js, MongoDB, GCP Cloud Run</i>.
+  <a href="https://www.loom.com/share/ecc52efe57774161bde317b3608633a1">Watch demo</a></li>
+  <li><b>AI Business Brain</b>: document processing, PostgreSQL retrieval and authenticated MCP tools.
+  <a href="https://www.loom.com/share/63810c0ba3d8445aa9c36a647f23e5b9">Watch demo</a></li>
+  <li><b>OLO AI Studio</b>: multi-tenant AI marketing platform with brand onboarding, AI content generation, 30-day content calendars, approvals and scheduling. <i>Next.js, Supabase</i></li>
+  <li><b>Coastline CRM</b>: multi-tenant CRM for leads, contacts, opportunities, tasks and calendar, with API integrations. <i>React</i></li>
+</ul>
+
+---
+
+<h3>🧠 How I Work</h3>
+
+<ul>
+  <li>✅ Scope first: your workflow, your data, and where AI is (and isn't) the right tool</li>
   <li>✅ Catch architecture mistakes before they become expensive rebuilds</li>
-  <li>✅ Turn vague requirements into workable technical plans</li>
-  <li>✅ Make sound judgement calls around edge cases and scale</li>
-  <li>✅ Communicate clearly with non-technical stakeholders</li>
-  <li>✅ Own delivery end-to-end, not just the easy parts</li>
-  <li>✅ Know when off-the-shelf beats custom, and when it doesn’t</li>
+  <li>✅ Fixed milestones with clear acceptance criteria</li>
+  <li>✅ Testing, documentation and a proper handover included</li>
+  <li>✅ Clear communication with non-technical stakeholders</li>
 </ul>
 
 ---
 
 <h3>🛠 Tech Stack</h3>
 
-<h4>Frontend</h4>
+<h4>AI & Automation</h4>
+<p>
+  <img src="https://img.shields.io/badge/Claude-Anthropic-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini-Google-1A73E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-pgvector-316192?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+</p>
+
+<h4>Frontend & Mobile</h4>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -65,51 +89,26 @@ My focus is building production-grade applications that are scalable, maintainab
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
-<h4>Backend</h4>
+<h4>Backend & Databases</h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0F172A?style=flat-square" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-</p>
-
-<h4>Databases</h4>
-<p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
-<h4>AI & Automation</h4>
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/Claude-Anthropic-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gemini-Google-1A73E8?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangChain-0EA5E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-6D28D9?style=flat-square" />
-</p>
-
-<h4>Cloud, Infra & DevOps</h4>
+<h4>Cloud & DevOps</h4>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square" />
-</p>
-
-<h4>Developer Tools</h4>
-<p>
-  <img src="https://img.shields.io/badge/Cursor-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lovable-EC4899?style=flat-square" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -118,10 +117,9 @@ My focus is building production-grade applications that are scalable, maintainab
 
 <ul>
   <li>✅ 15+ years of enterprise and startup delivery</li>
-  <li>✅ Built products from MVP stage to enterprise scale</li>
-  <li>✅ Experience across SaaS, CRM, automation, and AI-powered systems</li>
-  <li>✅ Strong focus on architecture, delivery, and long-term maintainability</li>
-  <li>✅ Real-time collaboration across Australia, New Zealand, Europe, and North America</li>
+  <li>✅ Top Rated on Upwork with 150+ completed contracts</li>
+  <li>✅ Products taken from MVP to production across SaaS, CRM, automation and AI</li>
+  <li>✅ Working across Australia, New Zealand, Europe and North America time zones</li>
 </ul>
 
 ---
@@ -134,19 +132,6 @@ My focus is building production-grade applications that are scalable, maintainab
 
 ---
 
-<h3>📈 GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alikhan-vrtechsol&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhan-vrtechsol&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <b>Building scalable products with strong architecture, faster delivery, and practical AI integration.</b>
+  <b>Practical AI, solid architecture, and systems that keep working after handover.</b>
 </p>
