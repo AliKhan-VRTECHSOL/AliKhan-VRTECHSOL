@@ -3,10 +3,13 @@
 <h3 align="center">AI Agents & Automation Engineer • Full Stack • Solution Architect • 15+ Years</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Melbourne-Australia-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Claude%20%7C%20MCP%20%7C%20n8n-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SaaS-Next.js%20%7C%20Supabase-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Upwork-Top%20Rated-14A800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Upwork-Top_Rated_Plus-14A800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Earned-%24250K%2B-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects_Delivered-250%2B-7C3AED?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Agents-Claude%2C_MCP%2C_n8n-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SaaS-Next.js%2C_Supabase-3ECF8E?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -61,77 +64,3 @@ permissions, tenant isolation, approvals, logging and cost controls built in fro
   <li>✅ Catch architecture mistakes before they become expensive rebuilds</li>
   <li>✅ Fixed milestones with clear acceptance criteria</li>
   <li>✅ Testing, documentation and a proper handover included</li>
-  <li>✅ Clear communication with non-technical stakeholders</li>
-</ul>
-
----
-
-<h3>🛠 Tech Stack</h3>
-
-<h4>AI & Automation</h4>
-<p>
-  <img src="https://img.shields.io/badge/Claude-Anthropic-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0F172A?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gemini-Google-1A73E8?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-pgvector-316192?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangChain-0EA5E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-</p>
-
-<h4>Frontend & Mobile</h4>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-</p>
-
-<h4>Backend & Databases</h4>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0F172A?style=flat-square" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-</p>
-
-<h4>Cloud & DevOps</h4>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-</p>
-
----
-
-<h3>📌 Highlights</h3>
-
-<ul>
-  <li>✅ 15+ years of enterprise and startup delivery</li>
-  <li>✅ Top Rated on Upwork with 150+ completed contracts</li>
-  <li>✅ Products taken from MVP to production across SaaS, CRM, automation and AI</li>
-  <li>✅ Working across Australia, New Zealand, Europe and North America time zones</li>
-</ul>
-
----
-
-<h3>🌐 Connect</h3>
-
-<p>
-  🔗 <a href="https://www.upwork.com/freelancers/akaus" target="_blank">Upwork Profile</a>
-</p>
-
----
-
-<p align="center">
-  <b>Practical AI, solid architecture, and systems that keep working after handover.</b>
-</p>
